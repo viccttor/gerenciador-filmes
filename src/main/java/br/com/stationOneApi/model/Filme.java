@@ -19,7 +19,7 @@ public class Filme {
 	private String titulo;
 	
 	
-	@Column(nullable = true,length = 100)
+	@Column(nullable = true)
 	private String descricao;
 	
 	
