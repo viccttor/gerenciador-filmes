@@ -1,4 +1,4 @@
-# 🎓 Gerenciador de Filmes 🎓 
+# 🎥 Gerenciador de Filmes 🎥 
 ![Tarefa](https://github.com/viccttor/gerenciador-filmes/blob/main/back.png)
 ## 
 
