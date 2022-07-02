@@ -28,6 +28,7 @@ Station One - back-end.
 | GET   	| /gerenciador-filmes/listagem-de-filmes     	| Listar Todos os filmes cadastrados               |
 | GET    	| /gerenciador-filmes/buscas-de-filmes-por-id 	| Buscar filme por id           |
 
+#
 
 ### Utilizando á API
 
@@ -57,10 +58,14 @@ Station One - back-end.
   "descricao": "É o início do terceiro ano na escola de bruxaria Hogwarts. Harry, Ron e Hermione têm muito o que aprender. Mas uma ameaça ronda a escola e ela se chama Sirius Blac.",
   "autor": " J. K. R"
 }
+#
+
 ```
 * Listagem de Filmes
 
 ```
+#
+
 Não precisa de parâmetros.
 ```
 
@@ -69,8 +74,8 @@ Não precisa de parâmetros.
 ```
 id: 1
 ```
+#
+
 #### ✒️Autor - [Victor Henrique](https://github.com/viccttor) | [Linkedin](https://www.linkedin.com/in/viccttor/)
 #
-<div>
- <a href="http://crud-sample-full.herokuapp.com/crud-sample" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a> 
-</div>
+
